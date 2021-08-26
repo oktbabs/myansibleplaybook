@@ -1,0 +1,11 @@
+- hosts: jenkinservers
+  user: jenkins
+  become: yes
+  roles:
+#    - gen-dependencies
+#    - package-update
+#    - create-user
+    - smb-packages 
+#    - create-user2
+#    - create-user3
+    
