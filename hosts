@@ -6,5 +6,5 @@
 # 192.168.10.111
 
 [otdservers]
-192.168.10.107   ansible_user=jenkins
+192.168.10.107   ansible_user=oracle
 
