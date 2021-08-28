@@ -1,5 +1,5 @@
 - hosts: otdservers
-  user: jenkins
+  user: oracle
   become: yes
   roles:
     - gen-dependencies
