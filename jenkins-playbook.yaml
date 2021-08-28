@@ -1,4 +1,4 @@
-- hosts: otdservers
+- hosts: kuberneteservers
   user: oracle
   become: yes
   roles:
