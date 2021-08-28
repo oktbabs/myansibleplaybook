@@ -1,0 +1,8 @@
+---
+# tasks file for create-group
+- name: "create group" 
+  group:
+    name: "{{ item  }}"  
+  loop: 
+    - "oinstall"
+    - "jenkins"
