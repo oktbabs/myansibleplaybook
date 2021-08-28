@@ -4,6 +4,7 @@
   roles:
     - gen-dependencies
     - package-update
+    - create-group
     - create-user
     - smb-packages 
 #    - create-user2
