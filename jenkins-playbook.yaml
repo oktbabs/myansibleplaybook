@@ -1,4 +1,4 @@
-- hosts: jenkinservers
+- hosts: otdservers
   user: jenkins
   become: yes
   roles:
