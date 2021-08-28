@@ -6,8 +6,8 @@
 # 192.168.10.111
 
 [kuberneteservers]
-192.168.10.85
-192.168.10.86
+192.168.10.85   ansible_user=oracle
+192.168.10.86    
 
 #[otdservers]
 #192.168.10.107   ansible_user=oracle
