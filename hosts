@@ -2,7 +2,7 @@
 
 # Ex 1: Ungrouped hosts, specify before any group headers.
 
-[jenkinservers]
+#[jenkinservers]
 # 192.168.10.111
 
 [otdservers]
